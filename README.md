@@ -4,21 +4,6 @@ _Colección de ejercicios prácticos de Análisis Exploratorio de Datos (EDA) y 
 
 _Técnicas de limpieza, transformación y visualización para convertir datos crudos en historias con sentido._
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="30%" align="center"><b>Spotify Tracks Dataset | Audio Features</b></th>
-      <th width="30%" align="center"><b>Caso 2</b></th>
-      <th width="30%" align="center"><b>Caso 3</b></th>
-    </tr>
-  </thead>
-  <tr>
-    https://drive.google.com/file/d/1u6esZiP-Hcfdl8f_qQV8nXIFUFgEOCxu/view?usp=sharing
-  </tr>
-</table>
-
-
-
 <table width="100%" style="border-collapse: collapse; border: 1px solid #ccc;">
   <thead>
     <tr style="background-color: #87CEEB;"> <th width="33%" align="center" style="padding: 10px; border: 1px solid #ccc;">
