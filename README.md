@@ -20,7 +20,7 @@ _Técnicas de limpieza, transformación y visualización para convertir datos cr
   <tbody>
     <tr>
       <td align="center" style="padding: 20px; border: 1px solid #ccc;">
-        <a href="TU_URL_AQUI" target="_blank" style="text-decoration: none;">
+        <a href="[spotify](https://github.com/gonzalezmendez/Spotify-Tracks-Dataset)" target="_blank" style="text-decoration: none;">
         <img src="https://lh3.googleusercontent.com/d/1u6esZiP-Hcfdl8f_qQV8nXIFUFgEOCxu" 
              alt="Spotify Data Visualization" 
              style="max-width: 100%; height: auto; display: block;">
