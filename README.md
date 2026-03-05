@@ -9,3 +9,4 @@ Colección de ejercicios prácticos de Análisis Exploratorio de Datos (EDA) y D
       <th width="30%" align="center"><b>Caso 3</b></th>
     </tr>
   </thead>
+</table>
