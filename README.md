@@ -24,6 +24,16 @@ _Técnicas de limpieza, transformación y visualización para convertir datos cr
              alt="Spotify Data Visualization" 
              style="max-width: 100%; height: auto; display: block;">
       </td>
+            <td colspan="1" align="center" style="padding: 20px; border: 1px solid #ccc;">
+        <img src="https://lh3.googleusercontent.com/d/1u6esZiP-Hcfdl8f_qQV8nXIFUFgEOCxu" 
+             alt="Spotify Data Visualization" 
+             style="max-width: 100%; height: auto; display: block;">
+      </td>
+            <td colspan="1" align="center" style="padding: 20px; border: 1px solid #ccc;">
+        <img src="https://lh3.googleusercontent.com/d/1u6esZiP-Hcfdl8f_qQV8nXIFUFgEOCxu" 
+             alt="Spotify Data Visualization" 
+             style="max-width: 100%; height: auto; display: block;">
+      </td>
     </tr>
   </tbody>
 </table>
