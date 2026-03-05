@@ -1,7 +1,7 @@
 
 
 <table width="100%">
-# Analisis Exploratorio y Wrangling (EDA)
+<H>Analisis Exploratorio y Wrangling (EDA)</H>
 Colección de ejercicios prácticos de Análisis Exploratorio de Datos (EDA) y Data Wrangling. Técnicas de limpieza, transformación y visualización para convertir datos crudos en historias con sentido.
   <thead>
     <tr>
