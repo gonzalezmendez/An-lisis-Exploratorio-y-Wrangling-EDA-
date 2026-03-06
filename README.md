@@ -47,7 +47,6 @@ _Técnicas de limpieza, transformación y visualización para convertir datos cr
     border-collapse: collapse;
   }
   
-  /* Definimos el ancho de las columnas */
   .col-imagen {
     width: 20%;
     padding: 10px;
@@ -60,7 +59,6 @@ _Técnicas de limpieza, transformación y visualización para convertir datos cr
     vertical-align: top;
   }
 
-  /* Asegura que la imagen se ajuste al 20% del espacio */
   img {
     width: 100%;
     height: auto;
