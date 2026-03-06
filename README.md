@@ -4,50 +4,44 @@ _Colección de ejercicios prácticos de Análisis Exploratorio de Datos (EDA) y 
 
 _Técnicas de limpieza, transformación y visualización para convertir datos crudos en historias con sentido._
 
-<style>
-  .tabla-proyectos {
-    width: 100%;
-    border-collapse: collapse;
-    font-family: sans-serif;
-  }
-  
-  .col-imagen {
-    width: 20%;
-    padding: 20px;
-    border: 1px solid #ccc;
-    text-align: center;
-    vertical-align: middle;
-  }
-  
-  .col-texto {
-    width: 80%;
-    padding: 20px;
-    border: 1px solid #ccc;
-    vertical-align: top;
-  }
-
-  .col-imagen img {
-    max-width: 100%;
-    height: auto;
-    display: block;
-    margin: 0 auto;
-  }
-</style>
-
-<table class="tabla-proyectos">
+<table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <td class="col-imagen">
-      <a href="https://github.com/gonzalezmendez/Spotify-Tracks-Dataset" target="_blank" style="text-decoration: none;">
+    <td align="center" valign="middle" width="20%" style="padding: 10px; border: 1px solid #ccc;">
+      <a href="https://github.com/gonzalezmendez/Spotify-Tracks-Dataset" target="_blank">
         <img src="https://lh3.googleusercontent.com/d/1u6esZiP-Hcfdl8f_qQV8nXIFUFgEOCxu" 
-             alt="Spotify Data Visualization">
+             alt="Spotify Data Visualization" 
+             style="max-width: 100%; height: auto; display: block;">
       </a>
     </td>
-    
-    <td class="col-texto">
-      <h2 style="margin-top: 0;">Spotify Tracks Dataset</h2>
-      <p>Análisis visual y procesamiento de datos sobre pistas de Spotify. Este proyecto explora métricas de popularidad y géneros musicales.</p>
-      <a href="https://github.com/gonzalezmendez/Spotify-Tracks-Dataset">Ver repositorio completo →</a>
+    <td align="left" valign="top" width="80%" style="padding: 20px; border: 1px solid #ccc;">
+      <h3>Spotify Tracks Analysis</h3>
+      <p>Análisis detallado de tendencias musicales utilizando Python. Exploración de métricas de popularidad, géneros y características de audio.</p>
+      <code>Python</code> <code>Pandas</code> <code>Matplotlib</code>
     </td>
   </tr>
 
-  </table>
+  <tr>
+    <td align="center" valign="middle" width="20%" style="padding: 10px; border: 1px solid #ccc;">
+      <img src="https://via.placeholder.com/150" alt="Proyecto 2" style="max-width: 100%; height: auto;">
+    </td>
+    <td align="left" valign="top" width="80%" style="padding: 20px; border: 1px solid #ccc;">
+      <h3>Nombre del Segundo Proyecto</h3>
+      <p>Descripción del impacto y los resultados de este repositorio. Puedes incluir viñetas o enlaces adicionales aquí.</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle" width="20%" style="padding: 10px; border: 1px solid #ccc;">
+      <img src="https://via.placeholder.com/150" alt="Proyecto 3" style="max-width: 100%; height: auto;">
+    </td>
+    <td align="left" valign="top" width="80%" style="padding: 20px; border: 1px solid #ccc;">
+      <h3>Nombre del Tercer Proyecto</h3>
+      <p>Breve resumen de las tecnologías utilizadas y el problema que resuelve este código.</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle" width="20%" style="padding: 10px; border: 1px solid #ccc;">
+      <img src="https://via.placeholder.com/150" alt="Proyecto 4" style="max-width: 100%; height: auto;">
+    </td>
+    <td align="left" valign="top" width="80%" style="padding: 20px
