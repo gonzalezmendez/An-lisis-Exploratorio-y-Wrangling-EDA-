@@ -23,29 +23,27 @@ _Técnicas de limpieza, transformación y visualización para convertir datos cr
     <li><b>Popularidad:</b> Existe un sesgo hacia valores bajos; el 50% de las pistas tiene una popularidad inferior a 35 puntos.</li>
     <li><b>Ritmo:</b> El <code>tempo</code> promedio de 122 BPM y el compás de 4/4 sugieren una base de datos centrada en géneros contemporáneos como Pop, Dance o Rock.</li>
   </td>
-
   </tr>
 
   <tr>
     <td align="center" valign="middle" width="20%" style="padding: 10px; border: 1px solid #ccc;">
-      <img src="https://via.placeholder.com/150" alt="Proyecto 2" style="max-width: 100%; height: auto;">
+      <a href="https://colab.research.google.com/drive/17_41ZhhfB1XsPMK6f6PSZfJWbwE96DoW?usp=sharing" target="_blank">
+        <img src="https://drive.google.com/drive/u/3/folders/1WwA0bDzrGAeJlmHTXeeIozPN0yCTmX3V" 
+             alt="IMDb" 
+             style="max-width: 100%; height: auto; display: block;">
+      </a>
     </td>
     <td align="left" valign="top" width="80%" style="padding: 20px; border: 1px solid #ccc;">
-      <h3>Nombre del Segundo Proyecto</h3>
-      <p>Descripción del impacto y los resultados de este repositorio. Puedes incluir viñetas o enlaces adicionales aquí.</p>
-    </td>
+      <h3>IMDb Insights: Limpieza de Datos y Análisis Exploratorio del Top 1000 Cinematográfico </h3>
+      <p>Subiendo</p>
+        <b>Librerias:</b> <code>Python</code> <code>Pandas</code> <code>Matplotlib</code><br><br>
+  <ul>
+    <p>DATO 1 </p>
+    <li><b>INSIGHT1 </b> POR REDACTAR/li>
+    <li><b>INSIGHT2</b> POR REDACTAR</li>
+    <li><b>INSIGHT3</b> POR REDACTAR</li>
+  </td>
   </tr>
-
-  <tr>
-    <td align="center" valign="middle" width="20%" style="padding: 10px; border: 1px solid #ccc;">
-      <img src="https://via.placeholder.com/150" alt="Proyecto 3" style="max-width: 100%; height: auto;">
-    </td>
-    <td align="left" valign="top" width="80%" style="padding: 20px; border: 1px solid #ccc;">
-      <h3>Nombre del Tercer Proyecto</h3>
-      <p>Breve resumen de las tecnologías utilizadas y el problema que resuelve este código.</p>
-    </td>
-  </tr>
-
   <tr>
     <td align="center" valign="middle" width="20%" style="padding: 10px; border: 1px solid #ccc;">
       <img src="https://via.placeholder.com/150" alt="Proyecto 4" style="max-width: 100%; height: auto;">
