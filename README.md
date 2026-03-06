@@ -16,7 +16,8 @@ _Técnicas de limpieza, transformación y visualización para convertir datos cr
     <td align="left" valign="top" width="80%" style="padding: 20px; border: 1px solid #ccc;">
       <h3>Spotify Tracks Analysis</h3>
       <p>Análisis detallado de tendencias musicales utilizando Python. Exploración de métricas de popularidad, géneros y características de audio.</p>
-        <b>Habiliades:</b> <code>ETL</code> <code>Python</code> <code>Pandas</code> <code>Matplotlib</code><br><br>
+        <b>Habiliades:</b> <code>ETL</code> <code>Python</code> <code>Pandas</code> <code>Matplotlib</code>
+      <br><br>
   <ul>
     <p>El análisis estadístico revela un dataset con una fuerte inclinación hacia la música comercial moderna: </p>
     <li><b>Perfil Sonoro:</b> Predominancia de temas con alta <code>energy</code> (avg 0.64) y baja <code>instrumentalness</code>, indicando contenido mayoritariamente vocal.</li>
@@ -36,7 +37,8 @@ _Técnicas de limpieza, transformación y visualización para convertir datos cr
     <td align="left" valign="top" width="80%" style="padding: 20px; border: 1px solid #ccc;">
       <h3>IMDb Insights: Limpieza de Datos y Análisis Exploratorio del Top 1000 Cinematográfico </h3>
       <p>Subiendo</p>
-        <b>Librerias:</b> <code>Python</code> <code>Pandas</code> <code>Matplotlib</code><br><br>
+        <b>Habilidades:</b> <code>Python</code> <code>Pandas</code> <code>Matplotlib</code> <code>One-Hot Encoding</code>
+      <br><br>
   <ul>
     <p>DATO 1 </p>
     <li><b>INSIGHT1 </b> POR REDACTAR/li>
