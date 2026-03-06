@@ -36,15 +36,14 @@ _Técnicas de limpieza, transformación y visualización para convertir datos cr
     </td>
     <td align="left" valign="top" width="80%" style="padding: 20px; border: 1px solid #ccc;">
       <h3>IMDb Insights: Limpieza de Datos y Análisis Exploratorio del Top 1000 Cinematográfico </h3>
-      <p>Subiendo</p>
+          <p>Este análisis demuestra cómo la normalización previa del dataset permite consultas de alto nivel sin errores de duplicidad.</p>
+      <code>df.groupby('director').agg()</code> <code>sns.barplot</code>
       <b>Habiliades:</b> <code>ETL</code> <code>Python</code> <code>Pandas</code> <code>Matplotlib</code> <code>Numpy</code> <code>One-Hot Encoding</code>
       <br><br>
   <ul>
-    <p>DEl EDA final identifica a los directores clave que definen el Top 1000 de IMDb. Mediante el uso de <code>groupby</code> y funciones de agregación, determinamos: </p>
+    <p>El EDA final identifica a los directores clave que definen el Top 1000 de IMDb. Mediante el uso de <code>groupby</code> y funciones de agregación, determinamos: </p>
         <li><b>Impacto Financiero:</b> Identificación de los 10 directores con mayor recaudación acumulada, destacando la relación entre grandes presupuestos y éxito comercial.</li>
-        <li><b>Consistencia Crítica:</b> Filtrado de directores con múltiples obras (n > 3) para evaluar la calidad sostenida mediante el <code>rating</code> promedio.</li><br><br>
-    <p>Este análisis demuestra cómo la normalización previa del dataset permite consultas de alto nivel sin errores de duplicidad.</p>
-      <code>df.groupby('director').agg()</code> <code>sns.barplot</code>
+        <li><b>Consistencia Crítica:</b> Filtrado de directores con múltiples obras (n > 3) para evaluar la calidad sostenida mediante el <code>rating</code> promedio.</li><br>
   </td>
   </tr>
   <tr>
