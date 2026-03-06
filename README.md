@@ -41,34 +41,7 @@ _Técnicas de limpieza, transformación y visualización para convertir datos cr
   </tbody>
 </table>
 
-<style>
-  table {
-    width: 100%;
-    border-collapse: collapse;
-  }
-  
-  .col-imagen {
-    width: 20%;
-    padding: 10px;
-    vertical-align: top;
-  }
-  
-  .col-texto {
-    width: 80%;
-    padding: 10px;
-    vertical-align: top;
-  }
 
-  img {
-    width: 100%;
-    height: auto;
-    display: block;
-  }
-
-  td, th {
-    border: 1px solid #ddd;
-  }
-</style>
 
 <table>
   <tr>
