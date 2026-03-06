@@ -45,3 +45,19 @@ _Técnicas de limpieza, transformación y visualización para convertir datos cr
       <img src="https://via.placeholder.com/150" alt="Proyecto 4" style="max-width: 100%; height: auto;">
     </td>
     <td align="left" valign="top" width="80%" style="padding: 20px
+
+
+
+
+<td style="width: 80%; padding: 20px; border: 1px solid #ccc; vertical-align: top;">
+  <h3>Interpretación de Estadísticos Descriptivos</h3>
+  <p>
+    El análisis estadístico revela un dataset con una fuerte inclinación hacia la música comercial moderna:
+  </p>
+  <ul>
+    <li><b>Perfil Sonoro:</b> Predominancia de temas con alta <code>energy</code> (avg 0.64) y baja <code>instrumentalness</code>, indicando contenido mayoritariamente vocal.</li>
+    <li><b>Popularidad:</b> Existe un sesgo hacia valores bajos; el 50% de las pistas tiene una popularidad inferior a 35 puntos.</li>
+    <li><b>Ritmo:</b> El <code>tempo</code> promedio de 122 BPM y el compás de 4/4 sugieren una base de datos centrada en géneros contemporáneos como Pop, Dance o Rock.</li>
+  </ul>
+  <p><i>Nota: Se detectaron valores de 0 BPM y 0 Popularidad que requieren un análisis de valores atípicos.</i></p>
+</td>
