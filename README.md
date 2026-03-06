@@ -17,7 +17,7 @@ _Técnicas de limpieza, transformación y visualización para convertir datos cr
       <h3>Spotify Tracks Analysis</h3>
       <p>Análisis detallado de tendencias musicales utilizando Python. Exploración de métricas de popularidad, géneros y características de audio.</p>
 
-      p>
+      <p>
     El análisis estadístico revela un dataset con una fuerte inclinación hacia la música comercial moderna:
   </p>
   <ul>
