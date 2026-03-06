@@ -12,7 +12,7 @@ _Técnicas de limpieza, transformación y visualización para convertir datos cr
   }
   
   .col-imagen {
-    width: 20%; /* Tu 20% solicitado */
+    width: 20%;
     padding: 20px;
     border: 1px solid #ccc;
     text-align: center;
@@ -20,7 +20,7 @@ _Técnicas de limpieza, transformación y visualización para convertir datos cr
   }
   
   .col-texto {
-    width: 80%; /* Tu 80% solicitado */
+    width: 80%;
     padding: 20px;
     border: 1px solid #ccc;
     vertical-align: top;
