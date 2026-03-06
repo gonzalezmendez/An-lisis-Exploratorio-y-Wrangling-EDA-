@@ -41,3 +41,67 @@ _Técnicas de limpieza, transformación y visualización para convertir datos cr
   </tbody>
 </table>
 
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  /* Definimos el ancho de las columnas */
+  .col-imagen {
+    width: 20%;
+    padding: 10px;
+    vertical-align: top;
+  }
+  
+  .col-texto {
+    width: 80%;
+    padding: 10px;
+    vertical-align: top;
+  }
+
+  /* Asegura que la imagen se ajuste al 20% del espacio */
+  img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  td, th {
+    border: 1px solid #ddd;
+  }
+</style>
+
+<table>
+  <tr>
+    <td class="col-imagen"><img src="tu-imagen1.jpg" alt="Descripción"></td>
+    <td class="col-texto">
+      <h3>Título 1</h3>
+      <p>Aquí va la descripción larga de tu primer elemento.</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td class="col-imagen"><img src="tu-imagen2.jpg" alt="Descripción"></td>
+    <td class="col-texto">
+      <h3>Título 2</h3>
+      <p>Aquí va la descripción del segundo elemento.</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td class="col-imagen"><img src="tu-imagen3.jpg" alt="Descripción"></td>
+    <td class="col-texto">
+      <h3>Título 3</h3>
+      <p>Texto descriptivo para la tercera fila.</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td class="col-imagen"><img src="tu-imagen4.jpg" alt="Descripción"></td>
+    <td class="col-texto">
+      <h3>Título 4</h3>
+      <p>Finalizamos con la descripción de la cuarta fila.</p>
+    </td>
+  </tr>
+</table>
