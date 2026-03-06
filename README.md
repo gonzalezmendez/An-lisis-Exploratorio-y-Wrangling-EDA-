@@ -45,8 +45,3 @@ _Técnicas de limpieza, transformación y visualización para convertir datos cr
         <li><b>Consistencia Crítica:</b> Filtrado de directores con múltiples obras (n > 3) para evaluar la calidad sostenida mediante el <code>rating</code> promedio.</li><br>
   </td>
   </tr>
-  <tr>
-    <td align="center" valign="middle" width="20%" style="padding: 10px; border: 1px solid #ccc;">
-      <img src="https://via.placeholder.com/150" alt="Proyecto 4" style="max-width: 100%; height: auto;">
-    </td>
-    <td align="left" valign="top" width="80%" style="padding: 20px
