@@ -4,75 +4,50 @@ _Colección de ejercicios prácticos de Análisis Exploratorio de Datos (EDA) y 
 
 _Técnicas de limpieza, transformación y visualización para convertir datos crudos en historias con sentido._
 
-<table width="100%" style="border-collapse: collapse; border: 1px solid #ccc;">
-  <thead>
-    <tr style="background-color: #87CEEB;"> <th width="33%" align="center" style="padding: 10px; border: 1px solid #ccc;">
-        <b>Spotify Tracks Dataset | Audio Features</b>
-      </th>
-      <th width="33%" align="center" style="padding: 10px; border: 1px solid #ccc;">
-        <b>Caso 2</b>
-      </th>
-      <th width="33%" align="center" style="padding: 10px; border: 1px solid #ccc;">
-        <b>Caso 3</b>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="padding: 20px; border: 1px solid #ccc;">
-        <a href="https://github.com/gonzalezmendez/Spotify-Tracks-Dataset" target="_blank" style="text-decoration: none;">
-        <img src="https://lh3.googleusercontent.com/d/1u6esZiP-Hcfdl8f_qQV8nXIFUFgEOCxu" 
-             alt="Spotify Data Visualization" 
-             style="max-width: 100%; height: auto; display: block;">
-      </td>
-            <td align="center" style="padding: 20px; border: 1px solid #ccc;">
-              <a href="TU_URL_AQUI" target="_blank" style="text-decoration: none;">
-        <img src="https://lh3.googleusercontent.com/d/1u6esZiP-Hcfdl8f_qQV8nXIFUFgEOCxu" 
-             alt="Spotify Data Visualization" 
-             style="max-width: 100%; height: auto; display: block;">
-      </td>
-            <td align="center" style="padding: 20px; border: 1px solid #ccc;">
-              <a href="TU_URL_AQUI" target="_blank" style="text-decoration: none;">
-        <img src="https://lh3.googleusercontent.com/d/1u6esZiP-Hcfdl8f_qQV8nXIFUFgEOCxu" 
-             alt="Spotify Data Visualization" 
-             style="max-width: 100%; height: auto; display: block;">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-
-
-<table>
-  <tr>
-    <td class="col-imagen"><img src="tu-imagen1.jpg" alt="Descripción"></td>
-    <td class="col-texto">
-      <h3>Título 1</h3>
-      <p>Aquí va la descripción larga de tu primer elemento.</p>
-    </td>
-  </tr>
+<style>
+  .tabla-proyectos {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: sans-serif;
+  }
   
-  <tr>
-    <td class="col-imagen"><img src="tu-imagen2.jpg" alt="Descripción"></td>
-    <td class="col-texto">
-      <h3>Título 2</h3>
-      <p>Aquí va la descripción del segundo elemento.</p>
-    </td>
-  </tr>
+  .col-imagen {
+    width: 20%; /* Tu 20% solicitado */
+    padding: 20px;
+    border: 1px solid #ccc;
+    text-align: center;
+    vertical-align: middle;
+  }
   
+  .col-texto {
+    width: 80%; /* Tu 80% solicitado */
+    padding: 20px;
+    border: 1px solid #ccc;
+    vertical-align: top;
+  }
+
+  .col-imagen img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+</style>
+
+<table class="tabla-proyectos">
   <tr>
-    <td class="col-imagen"><img src="tu-imagen3.jpg" alt="Descripción"></td>
+    <td class="col-imagen">
+      <a href="https://github.com/gonzalezmendez/Spotify-Tracks-Dataset" target="_blank" style="text-decoration: none;">
+        <img src="https://lh3.googleusercontent.com/d/1u6esZiP-Hcfdl8f_qQV8nXIFUFgEOCxu" 
+             alt="Spotify Data Visualization">
+      </a>
+    </td>
+    
     <td class="col-texto">
-      <h3>Título 3</h3>
-      <p>Texto descriptivo para la tercera fila.</p>
+      <h2 style="margin-top: 0;">Spotify Tracks Dataset</h2>
+      <p>Análisis visual y procesamiento de datos sobre pistas de Spotify. Este proyecto explora métricas de popularidad y géneros musicales.</p>
+      <a href="https://github.com/gonzalezmendez/Spotify-Tracks-Dataset">Ver repositorio completo →</a>
     </td>
   </tr>
-  
-  <tr>
-    <td class="col-imagen"><img src="tu-imagen4.jpg" alt="Descripción"></td>
-    <td class="col-texto">
-      <h3>Título 4</h3>
-      <p>Finalizamos con la descripción de la cuarta fila.</p>
-    </td>
-  </tr>
-</table>
+
+  </table>
