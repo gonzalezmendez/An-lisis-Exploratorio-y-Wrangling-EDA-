@@ -15,13 +15,13 @@ _Técnicas de limpieza, transformación y visualización para convertir datos cr
     </td>
     <td align="left" valign="top" width="80%" style="padding: 20px; border: 1px solid #ccc;">
       <h3>Spotify Tracks Analysis</h3>
-      <p>Análisis detallado de tendencias musicales utilizando Python. Exploración de métricas de popularidad, géneros y características de audio.</p>   
+      <p>Análisis detallado de tendencias musicales utilizando Python. Exploración de métricas de popularidad, géneros y características de audio.</p>
+        <b>Librerias:</b> <code>Python</code> <code>Pandas</code> <code>Matplotlib</code>
   <ul>
     <p>El análisis estadístico revela un dataset con una fuerte inclinación hacia la música comercial moderna: </p>
     <li><b>Perfil Sonoro:</b> Predominancia de temas con alta <code>energy</code> (avg 0.64) y baja <code>instrumentalness</code>, indicando contenido mayoritariamente vocal.</li>
     <li><b>Popularidad:</b> Existe un sesgo hacia valores bajos; el 50% de las pistas tiene una popularidad inferior a 35 puntos.</li>
     <li><b>Ritmo:</b> El <code>tempo</code> promedio de 122 BPM y el compás de 4/4 sugieren una base de datos centrada en géneros contemporáneos como Pop, Dance o Rock.</li>
-    <p><b>Librerias:</b> <code>Python</code> <code>Pandas</code> <code>Matplotlib</code></p>
   </td>
 
   </tr>
