@@ -24,7 +24,7 @@ _Técnicas de limpieza, transformación y visualización para convertir datos cr
     <li><b>Popularidad:</b> Existe un sesgo hacia valores bajos; el 50% de las pistas tiene una popularidad inferior a 35 puntos.</li>
     <li><b>Ritmo:</b> El <code>tempo</code> promedio de 122 BPM y el compás de 4/4 sugieren una base de datos centrada en géneros contemporáneos como Pop, Dance o Rock.</li>
     <br>
-    [![Colab](https://img.shields.io/badge/Colab-Python-blue?logo=googlecolab)]("https://colab.research.google.com/drive/17_41ZhhfB1XsPMK6f6PSZfJWbwE96DoW?usp=sharing")
+    [![Colab](https://img.shields.io/badge/Colab-Python-blue?logo=googlecolab)](https://colab.research.google.com/drive/17_41ZhhfB1XsPMK6f6PSZfJWbwE96DoW?usp=sharing)
   </td>
   </tr>
 
