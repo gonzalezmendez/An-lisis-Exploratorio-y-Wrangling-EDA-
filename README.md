@@ -7,7 +7,7 @@ _Técnicas de limpieza, transformación y visualización para convertir datos cr
 <table style="width: 100%; border-collapse: collapse;">
  <tr>
   <td align="center" valign="middle" width="20%" style="padding: 10px; border: 1px solid #ccc;">
-    <a href="https://colab.research.google.com/drive/17_41ZhhfB1XsPMK6f6PSZfJWbwE96DoW?usp=sharing" target="_blank">
+    <a href="#" target="_blank">
       <img src="https://lh3.googleusercontent.com/d/1u6esZiP-Hcfdl8f_qQV8nXIFUFgEOCxu" 
            alt="Spotify Data Visualization" 
            style="max-width: 100%; height: auto; display: block;">
