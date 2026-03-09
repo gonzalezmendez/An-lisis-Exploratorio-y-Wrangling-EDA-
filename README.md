@@ -9,6 +9,31 @@ _Técnicas de limpieza, transformación y visualización para convertir datos cr
  <tr>
   <td align="center" valign="middle" width="20%" style="padding: 10px; border: 1px solid #ccc;">
     <a href="#" target="_blank">
+      <img src="https://lh3.googleusercontent.com/d/1wiw7jXxYWcuGnh0FXgQhvEvNG67vUIdI"
+           alt="IMDb" 
+           style="max-width: 100%; height: auto; display: block;">
+    </a>
+  </td>
+    <td align="left" valign="top" width="80%" style="padding: 20px; border: 1px solid #ccc;">
+      <h3>IMDb Insights: Limpieza de Datos y Análisis Exploratorio del Top 1000 Cinematográfico </h3>
+      <p>Este análisis demuestra cómo la normalización previa del dataset permite consultas de alto nivel sin errores de duplicidad.</p><br>
+      <b>Habiliades:</b> <code>ETL</code> <code>Python</code> <code>Pandas</code> <code>Matplotlib</code> <code>Numpy</code> <code>One-Hot Encoding</code>
+      <br><br>
+  <ul>
+    <p>El EDA final identifica a los directores clave que definen el Top 1000 de IMDb. Mediante el uso de <code>groupby</code> y funciones de agregación, determinamos: </p>
+        <li><b>Impacto Financiero:</b> Identificación de los 10 directores con mayor recaudación acumulada, destacando la relación entre grandes presupuestos y éxito comercial.</li>
+        <li><b>Consistencia Crítica:</b> Filtrado de directores con múltiples obras (n > 3) para evaluar la calidad sostenida mediante el <code>rating</code> promedio.</li><br>
+    </ul>
+    <br>
+    <a href="https://colab.research.google.com/drive/1tRJxv8AKgQoX_Jn7Aw7MYQKb5KHVEK5P?authuser=3" target="_blank">
+      <img src="https://img.shields.io/badge/Colab-Python-blue?logo=googlecolab" alt="Colab">
+    </a>
+  </td>
+</tr>
+
+<tr>
+  <td align="center" valign="middle" width="20%" style="padding: 10px; border: 1px solid #ccc;">
+    <a href="#" target="_blank">
       <img src="https://lh3.googleusercontent.com/d/1u6esZiP-Hcfdl8f_qQV8nXIFUFgEOCxu" 
            alt="Spotify Data Visualization" 
            style="max-width: 100%; height: auto; display: block;">
@@ -32,30 +57,5 @@ _Técnicas de limpieza, transformación y visualización para convertir datos cr
    <a href="https://colab.research.google.com/drive/1sd-P9hau0k9ajmK4z1NKa79J0yr9jCE-?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/Colab-Python%20%26%20SQL-orange?logo=googlecolab&logoColor=white" alt="Python and SQL">
 </a>
-  </td>
-</tr>
-
-<tr>
-  <td align="center" valign="middle" width="20%" style="padding: 10px; border: 1px solid #ccc;">
-    <a href="#" target="_blank">
-      <img src="https://lh3.googleusercontent.com/d/1wiw7jXxYWcuGnh0FXgQhvEvNG67vUIdI"
-           alt="IMDb" 
-           style="max-width: 100%; height: auto; display: block;">
-    </a>
-  </td>
-    <td align="left" valign="top" width="80%" style="padding: 20px; border: 1px solid #ccc;">
-      <h3>IMDb Insights: Limpieza de Datos y Análisis Exploratorio del Top 1000 Cinematográfico </h3>
-      <p>Este análisis demuestra cómo la normalización previa del dataset permite consultas de alto nivel sin errores de duplicidad.</p><br>
-      <b>Habiliades:</b> <code>ETL</code> <code>Python</code> <code>Pandas</code> <code>Matplotlib</code> <code>Numpy</code> <code>One-Hot Encoding</code>
-      <br><br>
-  <ul>
-    <p>El EDA final identifica a los directores clave que definen el Top 1000 de IMDb. Mediante el uso de <code>groupby</code> y funciones de agregación, determinamos: </p>
-        <li><b>Impacto Financiero:</b> Identificación de los 10 directores con mayor recaudación acumulada, destacando la relación entre grandes presupuestos y éxito comercial.</li>
-        <li><b>Consistencia Crítica:</b> Filtrado de directores con múltiples obras (n > 3) para evaluar la calidad sostenida mediante el <code>rating</code> promedio.</li><br>
-    </ul>
-    <br>
-    <a href="https://colab.research.google.com/drive/1tRJxv8AKgQoX_Jn7Aw7MYQKb5KHVEK5P?authuser=3" target="_blank">
-      <img src="https://img.shields.io/badge/Colab-Python-blue?logo=googlecolab" alt="Colab">
-    </a>
   </td>
 </tr>
