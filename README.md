@@ -17,7 +17,7 @@ _Técnicas de limpieza, transformación y visualización para convertir datos cr
   <td align="left" valign="top" width="80%" style="padding: 20px; border: 1px solid #ccc;">
     <h3>Spotify Tracks Analysis</h3>
     <p>Análisis detallado de tendencias musicales utilizando Python. Exploración de métricas de popularidad, géneros y características de audio.</p>
-    <b>Habilidades:</b> <code>ETL</code> <code>Python</code> <code>Pandas</code> <code>Matplotlib</code>
+    <b>Habilidades:</b> <code>ETL</code> <code>Python</code> <code>Pandas</code> <code>Matplotlib</code> <code>SQL</code>
     <br><br>
     <ul>
       <p>El análisis estadístico revela un dataset con una fuerte inclinación hacia la música comercial moderna: </p>
