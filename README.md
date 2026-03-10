@@ -42,7 +42,7 @@ _Técnicas de limpieza, transformación y visualización para convertir datos cr
   <td align="left" valign="top" width="80%" style="padding: 20px; border: 1px solid #ccc;">
     <h3>Spotify Tracks Analysis</h3>
     <p>Análisis detallado de tendencias musicales utilizando Python. Exploración de métricas de popularidad, géneros y características de audio.</p>
-    <b>Habilidades:</b> <code>ETL</code> <code>Python</code> <code>Pandas</code> <code>Matplotlib</code> <code>SQL</code>
+    <b>Habilidades:</b> <code>ETL</code> <code>Python</code> <code>Pandas</code> <code>Matplotlib</code>
     <br><br>
     <ul>
       <p>El análisis estadístico revela un dataset con una fuerte inclinación hacia la música comercial moderna: </p>
@@ -54,8 +54,5 @@ _Técnicas de limpieza, transformación y visualización para convertir datos cr
     <a href="https://colab.research.google.com/drive/17_41ZhhfB1XsPMK6f6PSZfJWbwE96DoW?usp=sharing" target="_blank">
       <img src="https://img.shields.io/badge/Colab-Python-blue?logo=googlecolab" alt="Colab">
     </a>
-   <a href="https://colab.research.google.com/drive/1sd-P9hau0k9ajmK4z1NKa79J0yr9jCE-?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/Colab-Python%20%26%20SQL-orange?logo=googlecolab&logoColor=white" alt="Python and SQL">
-</a>
   </td>
 </tr>
