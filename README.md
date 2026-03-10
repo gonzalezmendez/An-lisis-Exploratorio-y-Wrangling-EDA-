@@ -35,7 +35,7 @@ _Técnicas de limpieza, transformación y visualización para convertir datos cr
 <tr>
   <td align="center" valign="middle" width="20%" style="padding: 10px; border: 1px solid #ccc;">
     <a href="#" target="_blank">
-      <img src="https://lh3.googleusercontent.com/d/1u6esZiP-Hcfdl8f_qQV8nXIFUFgEOCxu" 
+      <img src="https://lh3.googleusercontent.com/d/1WwA0bDzrGAeJlmHTXeeIozPN0yCTmX3V" 
            alt="Spotify Data Visualization" 
            style="max-width: 100%; height: auto; display: block;">
     </a>
