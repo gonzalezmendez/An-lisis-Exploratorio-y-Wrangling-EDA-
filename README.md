@@ -25,6 +25,7 @@ _Técnicas de limpieza, transformación y visualización para convertir datos cr
         <li><b>Consistencia Crítica:</b> Filtrado de directores con múltiples obras (n > 3) para evaluar la calidad sostenida mediante el <code>rating</code> promedio.</li><br>
     </ul>
     <br>
+     <h3>Se puede consultar el c{odigo aqui:</h3>
     <a href="https://colab.research.google.com/drive/1tRJxv8AKgQoX_Jn7Aw7MYQKb5KHVEK5P?authuser=3" target="_blank">
       <img src="https://img.shields.io/badge/Colab-Python-blue?logo=googlecolab" alt="Colab">
     </a>
