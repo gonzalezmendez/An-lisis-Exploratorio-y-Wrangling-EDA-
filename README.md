@@ -22,10 +22,10 @@ _Técnicas de limpieza, transformación y visualización para convertir datos cr
   <ul>
     <p>El EDA final identifica a los directores clave que definen el Top 1000 de IMDb. Mediante el uso de <code>groupby</code> y funciones de agregación, determinamos: </p>
         <li><b>Impacto Financiero:</b> Identificación de los 10 directores con mayor recaudación acumulada, destacando la relación entre grandes presupuestos y éxito comercial.</li>
-        <li><b>Consistencia Crítica:</b> Filtrado de directores con múltiples obras (n > 3) para evaluar la calidad sostenida mediante el <code>rating</code> promedio.</li><br>
+        <li><b>Consistencia Crítica:</b> Filtrado de directores con múltiples obras (n > 3) para evaluar la calidad sostenida mediante el <code>rating</code> promedio.</li>
     </ul>
     <br>
-     <h3>Se puede consultar el c{odigo aqui:</h3>
+     <h3>Se puede consultar el código aqui:</h3>
     <a href="https://colab.research.google.com/drive/1tRJxv8AKgQoX_Jn7Aw7MYQKb5KHVEK5P?authuser=3" target="_blank">
       <img src="https://img.shields.io/badge/Colab-Python-blue?logo=googlecolab" alt="Colab">
     </a>
@@ -52,6 +52,7 @@ _Técnicas de limpieza, transformación y visualización para convertir datos cr
       <li><b>Ritmo:</b> El <code>tempo</code> promedio de 122 BPM y el compás de 4/4 sugieren una base de datos centrada en géneros contemporáneos como Pop, Dance o Rock.</li>
     </ul>
     <br>
+     <h3>Se puede consultar el código aqui:</h3>
     <a href="https://colab.research.google.com/drive/17_41ZhhfB1XsPMK6f6PSZfJWbwE96DoW?usp=sharing" target="_blank">
       <img src="https://img.shields.io/badge/Colab-Python-blue?logo=googlecolab" alt="Colab">
     </a>
