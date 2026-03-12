@@ -67,8 +67,8 @@ _Técnicas de limpieza, transformación y visualización para convertir datos cr
   </td>
   <td align="left" valign="top" width="80%" style="padding: 20px; border: 1px solid #ccc;">
     <h3>Preferencias musicales en las ciudades de Springfield y Shelbyville </h3>
-    <p>Descripcion de datos; procesamiento de datos, prueba de hipotesis</p>
-    <b>Habilidades:</b> <code>Python</code> <code>Pandas</code>
+    <p>Análisis estadístico sobre +60k registros para identificar patrones de escucha urbanos. Implementación de pruebas Chi-cuadrado para validación de segmentación geográfica.</p>
+    <b>Habilidades:</b> <code>Python</code> <code>Pandas</code> <code>scipy</code> <code>matplotlib</code> <code>seaborn</code> <code>google.colab</code>
     <br><br>
     <ul>
       <p>Hipotesis: comparar el coportamiento de los usuarios en dos ciudades:</p>
