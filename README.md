@@ -56,5 +56,29 @@ _Técnicas de limpieza, transformación y visualización para convertir datos cr
     <a href="https://colab.research.google.com/drive/17_41ZhhfB1XsPMK6f6PSZfJWbwE96DoW?usp=sharing" target="_blank">
       <img src="https://img.shields.io/badge/Colab-Python-blue?logo=googlecolab" alt="Colab">
     </a>
+
+<tr>
+  <td align="center" valign="middle" width="20%" style="padding: 10px; border: 1px solid #ccc;">
+    <a href="#" target="_blank">
+      <img src="https://lh3.googleusercontent.com/d/1ybcD-fahvDhiV7aDhhxRZI91N7UYJUPc"        
+           alt="Spotify Data Visualization" 
+           style="max-width: 100%; height: auto; display: block;">
+    </a>
+  </td>
+  <td align="left" valign="top" width="80%" style="padding: 20px; border: 1px solid #ccc;">
+    <h3>Preferencias musicales en las ciudades de Springfield y Shelbyville <code>Proyecto TripleTen</code></h3>
+    <p>Descripcion de datos; procesamiento de datos, prueba de hipotesis</p>
+    <b>Habilidades:</b> <code>Python</code> <code>Pandas</code>
+    <br><br>
+    <ul>
+      <p>Hipotesis: comparar el coportamiento de los usuarios en dos ciudades:</p>
+      <li>Existe evidencia sobreslaiente en la preferencia por la musica de Springfield sobre la musica de Shelbyville en cualquier dia de la semana.</li>
+      <li>Se observa uhna diferencia significativa en la cantidad de canciones reproducidas entre estas dos ciudades, entonces la hipotesis de que existen diferencias en la forma en que los usuarios consumen musica en ambas ciduades podria ser correcta.</li>
+    </ul>
+    <br>
+     <h3>Se puede consultar el código aqui:</h3>
+    <a href="https://colab.research.google.com/drive/1EDb87lnDk32qi5Xl1b2iD30IK_ezJ4-3?usp=drive_link" target="_blank">
+      <img src="https://img.shields.io/badge/Colab-Python-blue?logo=googlecolab" alt="Colab">
+    </a>   
   </td>
 </tr>
