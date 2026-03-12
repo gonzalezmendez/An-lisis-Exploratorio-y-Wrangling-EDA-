@@ -72,7 +72,7 @@ _Técnicas de limpieza, transformación y visualización para convertir datos cr
     <br><br>
     <ul>
       <p>Hipotesis: comparar el coportamiento de los usuarios en dos ciudades:</p>
-      <li><b>Hipótesis Nula ($H_0$):</b> El consumo de géneros es independiente de la ciudad</li>
+      <li><b>Hipótesis Nula <code>H0</code>:</b> El consumo de géneros es independiente de la ciudad</li>
       <li><b>Conclusión: </b>La disparidad en las preferencias de géneros (notablemente en Pop, Rock y World) no es producto del azar, lo que valida la necesidad de modelos de recomendación geolocalizados. El estadístico $\chi^2$ de 178.53 confirma una fuerte dependencia entre las variables categóricas analizadas.</li>
     </ul>
     <br>
