@@ -12,8 +12,7 @@ _Técnicas de limpieza, transformación y visualización para convertir datos cr
       <img src="https://lh3.googleusercontent.com/d/1wiw7jXxYWcuGnh0FXgQhvEvNG67vUIdI"
            alt="IMDb" 
            style="max-width: 100%; height: auto; display: block;">
-     
-     <br><img src="https://img.shields.io/badge/Colab-Python-blue?logo=googlecolab" alt="Colab">
+     <img src="https://img.shields.io/badge/Colab-Python-blue?logo=googlecolab" alt="Colab">
     </a>
   </td>
     <td align="left" valign="top" width="80%" style="padding: 20px; border: 1px solid #ccc;">
@@ -35,8 +34,7 @@ _Técnicas de limpieza, transformación y visualización para convertir datos cr
       <img src="https://lh3.googleusercontent.com/d/1Nf2ne_5V5mmWgGvrStJF0oSN2K5PKNFV"        
            alt="Spotify Data Visualization" 
            style="max-width: 100%; height: auto; display: block;">
-     
-     <br><img src="https://img.shields.io/badge/Colab-Python-blue?logo=googlecolab" alt="Colab">
+     <img src="https://img.shields.io/badge/Colab-Python-blue?logo=googlecolab" alt="Colab">
     </a>
   </td>
   <td align="left" valign="top" width="80%" style="padding: 20px; border: 1px solid #ccc;">
@@ -53,11 +51,14 @@ _Técnicas de limpieza, transformación y visualización para convertir datos cr
 
 <tr>
   <td align="center" valign="middle" width="20%" style="padding: 10px; border: 1px solid #ccc;">
-    <a href="#" target="_blank">
+    <a href="https://colab.research.google.com/drive/1EDb87lnDk32qi5Xl1b2iD30IK_ezJ4-3?usp=drive_link" target="_blank">
       <img src="https://lh3.googleusercontent.com/d/1ybcD-fahvDhiV7aDhhxRZI91N7UYJUPc"        
            alt="Spotify Data Visualization" 
            style="max-width: 100%; height: auto; display: block;">
     </a>
+   <a href="#" target="_blank">
+      <img src="https://img.shields.io/badge/Colab-Python-blue?logo=googlecolab" alt="Colab">
+    </a>   
   </td>
   <td align="left" valign="top" width="80%" style="padding: 20px; border: 1px solid #ccc;">
     <h3>Preferencias musicales en las ciudades de Springfield y Shelbyville </h3>
@@ -69,10 +70,5 @@ _Técnicas de limpieza, transformación y visualización para convertir datos cr
       <li><b>Hipótesis Nula <code>H0</code>:</b> El consumo de géneros es independiente de la ciudad</li>
       <li><b>Conclusión: </b>La disparidad en las preferencias de géneros (notablemente en Pop, Rock y World) no es producto del azar, lo que valida la necesidad de modelos de recomendación geolocalizados. El estadístico $\chi^2$ de 178.53 confirma una fuerte dependencia entre las variables categóricas analizadas.</li>
     </ul>
-    <br>
-     <h3>Se puede consultar el código aqui:</h3>
-    <a href="https://colab.research.google.com/drive/1EDb87lnDk32qi5Xl1b2iD30IK_ezJ4-3?usp=drive_link" target="_blank">
-      <img src="https://img.shields.io/badge/Colab-Python-blue?logo=googlecolab" alt="Colab">
-    </a>   
   </td>
 </tr>
