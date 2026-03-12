@@ -1,4 +1,4 @@
-# Analisis Exploratorio y Wrangling (EDA)
+# EDA & Data Wrangling
 
 _Colección de ejercicios prácticos de Análisis Exploratorio de Datos (EDA) y Data Wrangling._
 
