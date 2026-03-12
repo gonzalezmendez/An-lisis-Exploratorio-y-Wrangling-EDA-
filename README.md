@@ -11,8 +11,8 @@ _Técnicas de limpieza, transformación y visualización para convertir datos cr
     <a href="https://colab.research.google.com/drive/1tRJxv8AKgQoX_Jn7Aw7MYQKb5KHVEK5P?authuser=3" target="_blank">
       <img src="https://lh3.googleusercontent.com/d/1wiw7jXxYWcuGnh0FXgQhvEvNG67vUIdI"
            alt="IMDb" 
-           style="max-width: 100%; height: auto; display: block;"><br>
-     <img src="https://img.shields.io/badge/Colab-Python-blue?logo=googlecolab" alt="Colab">
+           style="max-width: 100%; height: auto; display: block;">
+     <br><img src="https://img.shields.io/badge/Colab-Python-blue?logo=googlecolab" alt="Colab">
     </a>
   </td>
     <td align="left" valign="top" width="80%" style="padding: 20px; border: 1px solid #ccc;">
@@ -33,8 +33,8 @@ _Técnicas de limpieza, transformación y visualización para convertir datos cr
     <a href="https://colab.research.google.com/drive/17_41ZhhfB1XsPMK6f6PSZfJWbwE96DoW?usp=sharing" target="_blank">
       <img src="https://lh3.googleusercontent.com/d/1Nf2ne_5V5mmWgGvrStJF0oSN2K5PKNFV"        
            alt="Spotify Data Visualization" 
-           style="max-width: 100%; height: auto; display: block;"><br>
-     <img src="https://img.shields.io/badge/Colab-Python-blue?logo=googlecolab" alt="Colab">
+           style="max-width: 100%; height: auto; display: block;">
+     <br><img src="https://img.shields.io/badge/Colab-Python-blue?logo=googlecolab" alt="Colab">
     </a>
   </td>
   <td align="left" valign="top" width="80%" style="padding: 20px; border: 1px solid #ccc;">
