@@ -8,10 +8,11 @@ _Técnicas de limpieza, transformación y visualización para convertir datos cr
  
  <tr>
   <td align="center" valign="middle" width="20%" style="padding: 10px; border: 1px solid #ccc;">
-    <a href="#" target="_blank">
+    <a href="https://colab.research.google.com/drive/1tRJxv8AKgQoX_Jn7Aw7MYQKb5KHVEK5P?authuser=3" target="_blank">
       <img src="https://lh3.googleusercontent.com/d/1wiw7jXxYWcuGnh0FXgQhvEvNG67vUIdI"
            alt="IMDb" 
            style="max-width: 100%; height: auto; display: block;">
+     <img src="https://img.shields.io/badge/Colab-Python-blue?logo=googlecolab" alt="Colab">
     </a>
   </td>
     <td align="left" valign="top" width="80%" style="padding: 20px; border: 1px solid #ccc;">
