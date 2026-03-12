@@ -66,14 +66,14 @@ _Técnicas de limpieza, transformación y visualización para convertir datos cr
     </a>
   </td>
   <td align="left" valign="top" width="80%" style="padding: 20px; border: 1px solid #ccc;">
-    <h3>Preferencias musicales en las ciudades de Springfield y Shelbyville <code>Proyecto TripleTen</code></h3>
+    <h3>Preferencias musicales en las ciudades de Springfield y Shelbyville </h3>
     <p>Descripcion de datos; procesamiento de datos, prueba de hipotesis</p>
     <b>Habilidades:</b> <code>Python</code> <code>Pandas</code>
     <br><br>
     <ul>
       <p>Hipotesis: comparar el coportamiento de los usuarios en dos ciudades:</p>
-      <li>Existe evidencia sobreslaiente en la preferencia por la musica de Springfield sobre la musica de Shelbyville en cualquier dia de la semana.</li>
-      <li>Se observa uhna diferencia significativa en la cantidad de canciones reproducidas entre estas dos ciudades, entonces la hipotesis de que existen diferencias en la forma en que los usuarios consumen musica en ambas ciduades podria ser correcta.</li>
+      <li><b>Hipótesis Nula ($H_0$):</b> El consumo de géneros es independiente de la ciudad</li>
+      <li><b>Conclusión: </b>La disparidad en las preferencias de géneros (notablemente en Pop, Rock y World) no es producto del azar, lo que valida la necesidad de modelos de recomendación geolocalizados. El estadístico $\chi^2$ de 178.53 confirma una fuerte dependencia entre las variables categóricas analizadas.</li>
     </ul>
     <br>
      <h3>Se puede consultar el código aqui:</h3>
