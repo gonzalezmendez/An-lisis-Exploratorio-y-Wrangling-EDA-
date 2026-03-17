@@ -20,7 +20,7 @@ _Técnicas de limpieza, transformación y visualización para convertir datos cr
     <td align="left" valign="top" width="80%" style="padding: 20px; border: 1px solid #ccc;">
       <h3>IMDb Insights: Limpieza de Datos y Análisis Exploratorio del Top 1000 Cinematográfico </h3>
       <p>Este análisis demuestra cómo la normalización previa del dataset permite consultas de alto nivel sin errores de duplicidad.</p><br>
-      <b>Habiliades:</b> <code>ETL</code> <code>Python</code> <code>Pandas</code> <code>Matplotlib</code> <code>Numpy</code> <code>One-Hot Encoding</code>
+      <b>Habiliades:</b> <code>ETL</code> <code>Python</code> <code>Pandas</code> <code>Matplotlib</code> <code>Numpy</code> <code>One-Hot Encoding</code> <code>google.colab</code>
       <br><br>
   <ul>
     <p>El EDA final identifica a los directores clave que definen el Top 1000 de IMDb. Mediante el uso de <code>groupby</code> y funciones de agregación, determinamos: </p>
