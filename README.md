@@ -4,13 +4,6 @@ _Colección de ejercicios prácticos de Análisis Exploratorio de Datos (EDA) y 
 
 _Técnicas de limpieza, transformación y visualización para convertir datos crudos en historias con sentido._
 
-<td>
- <a href="https://docs.google.com/document/d/1FJAvgfgURxZE7KV3udghxiZRoLeuUlTgW0pKt6YOqUE/edit?usp=drive_link" target="_blank">
-<img src="https://img.shields.io/badge/Reporte-Abrir-green?logo=google-drive alt="Colab">
-</a>
-</td>
-
-
 <table style="width: 100%; border-collapse: collapse;">
  
  <tr>
@@ -26,6 +19,10 @@ _Técnicas de limpieza, transformación y visualización para convertir datos cr
   </td>
     <td align="left" valign="top" width="80%" style="padding: 20px; border: 1px solid #ccc;">
       <h3>IMDb Insights: Limpieza de Datos y Análisis Exploratorio del Top 1000 Cinematográfico </h3>
+      <a href="https://docs.google.com/document/d/1FJAvgfgURxZE7KV3udghxiZRoLeuUlTgW0pKt6YOqUE/edit?usp=drive_link" target="_blank">
+       <img src="https://img.shields.io/badge/Reporte-Abrir-green?logo=google-drive alt="Colab">
+      </a>
+</td>
       <p>Este análisis demuestra cómo la normalización previa del dataset permite consultas de alto nivel sin errores de duplicidad.</p><br>
       <b>Habiliades:</b> <code>ETL</code> <code>Python</code> <code>Pandas</code> <code>Matplotlib</code> <code>Numpy</code> <code>One-Hot Encoding</code> <code>google.colab</code>
       <br><br>
