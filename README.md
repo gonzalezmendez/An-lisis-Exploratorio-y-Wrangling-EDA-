@@ -4,9 +4,9 @@ _Colección de ejercicios prácticos de Análisis Exploratorio de Datos (EDA) y 
 
 _Técnicas de limpieza, transformación y visualización para convertir datos crudos en historias con sentido._
 
-   <a href="https://docs.google.com/document/d/1FJAvgfgURxZE7KV3udghxiZRoLeuUlTgW0pKt6YOqUE/edit?usp=drive_link" target="_blank">
-      <img src="https://img.shields.io/badge/Reporte-Abrir-green?logo=google-drive alt="Colab">
-    </a>
+<a href="https://docs.google.com/document/d/1FJAvgfgURxZE7KV3udghxiZRoLeuUlTgW0pKt6YOqUE/edit?usp=drive_link" target="_blank">
+<img src="https://img.shields.io/badge/Reporte-Abrir-green?logo=google-drive alt="Colab">
+</a>
 
 <table style="width: 100%; border-collapse: collapse;">
  
