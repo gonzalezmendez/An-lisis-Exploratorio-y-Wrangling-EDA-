@@ -4,6 +4,10 @@ _Colección de ejercicios prácticos de Análisis Exploratorio de Datos (EDA) y 
 
 _Técnicas de limpieza, transformación y visualización para convertir datos crudos en historias con sentido._
 
+   <a href="#" target="_blank">
+      <img src="https://img.shields.io/badge/Colab-Python-blue?logo=googlecolab" alt="Colab">
+    </a>
+
 <table style="width: 100%; border-collapse: collapse;">
  
  <tr>
@@ -12,9 +16,6 @@ _Técnicas de limpieza, transformación y visualización para convertir datos cr
       <img src="https://lh3.googleusercontent.com/d/1wiw7jXxYWcuGnh0FXgQhvEvNG67vUIdI"
            alt="IMDb" 
            style="max-width: 100%; height: auto; display: block;">
-    </a>
-   <a href="#" target="_blank">
-      <img src="https://img.shields.io/badge/Colab-Python-blue?logo=googlecolab" alt="Colab">
     </a>
    
   </td>
