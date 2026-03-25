@@ -15,7 +15,12 @@ _Técnicas de limpieza, transformación y visualización para convertir datos cr
     </a>
    <a href="#" target="_blank">
       <img src="https://img.shields.io/badge/Colab-Python-blue?logo=googlecolab" alt="Colab">
-    </a>   
+    </a>
+ 
+   <a href="https://docs.google.com/document/d/1FJAvgfgURxZE7KV3udghxiZRoLeuUlTgW0pKt6YOqUE/edit?usp=drive_link" target="_blank">
+      <img src="https://img.shields.io/badge/Reporte-Open-green?logo=google-drive alt="Colab">
+    </a>
+    
   </td>
     <td align="left" valign="top" width="80%" style="padding: 20px; border: 1px solid #ccc;">
       <h3>IMDb Insights: Limpieza de Datos y Análisis Exploratorio del Top 1000 Cinematográfico </h3>
