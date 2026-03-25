@@ -23,13 +23,11 @@ _Técnicas de limpieza, transformación y visualización para convertir datos cr
    
    <a href="https://docs.google.com/document/d/1FJAvgfgURxZE7KV3udghxiZRoLeuUlTgW0pKt6YOqUE/edit?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/Reporte-green?logo=google-drive alt="Colab"></a>
-  </td>
-  <br>
-    </td>
-      <p>Este análisis demuestra cómo la normalización previa del dataset permite consultas de alto nivel sin errores de duplicidad.</p><br>
-      <b>Habiliades:</b> <code>ETL</code> <code>Python</code> <code>Pandas</code> <code>Matplotlib</code> <code>Numpy</code> <code>One-Hot Encoding</code> <code>google.colab</code>
-      <br><br>
-  <ul>
+
+<p>Este análisis demuestra cómo la normalización previa del dataset permite consultas de alto nivel sin errores de duplicidad.</p><br>
+<b>Habiliades:</b> <code>ETL</code> <code>Python</code> <code>Pandas</code> <code>Matplotlib</code> <code>Numpy</code> <code>One-Hot Encoding</code> <code>google.colab</code>
+<br><br>
+<ul>
     <p>El EDA final identifica a los directores clave que definen el Top 1000 de IMDb. Mediante el uso de <code>groupby</code> y funciones de agregación, determinamos: </p>
         <li><b>Impacto Financiero:</b> Identificación de los 10 directores con mayor recaudación acumulada, destacando la relación entre grandes presupuestos y éxito comercial.</li>
         <li><b>Consistencia Crítica:</b> Filtrado de directores con múltiples obras (n > 3) para evaluar la calidad sostenida mediante el <code>rating</code> promedio.</li>
