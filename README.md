@@ -23,7 +23,7 @@ _Técnicas de limpieza, transformación y visualización para convertir datos cr
        <img src="https://img.shields.io/badge/Reporte-green?logo=google-drive alt="Colab"></a>
     </td>
     <br>
-    
+    </td>
       <p>Este análisis demuestra cómo la normalización previa del dataset permite consultas de alto nivel sin errores de duplicidad.</p><br>
       <b>Habiliades:</b> <code>ETL</code> <code>Python</code> <code>Pandas</code> <code>Matplotlib</code> <code>Numpy</code> <code>One-Hot Encoding</code> <code>google.colab</code>
       <br><br>
